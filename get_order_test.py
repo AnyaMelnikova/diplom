@@ -1,3 +1,4 @@
+# Мельникова Анна,  10-я когорта — Финальный проект. Инженер по тестированию плюс
 import requests
 import configuration
 import sender_stand_request
